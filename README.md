@@ -151,7 +151,7 @@ Level property: walls `[Base Constraint]`, railings `[Base Level]`, everything e
   settings above.
 
 ## Credits
-Created by **Ahnaf** ([ahnaf-salaahi](https://github.com/ahnaf-salaahi)), BSc (Hons) Quantity Surveying, University of Moratuwa, 
+Created by **Ahnaf Salaahi** ([ahnaf-salaahi](https://github.com/ahnaf-salaahi)), BSc (Hons) Quantity Surveying, University of Moratuwa, 
 developed during the QS4100 Building Information Modelling and Management coursework,
 written with Claude.
 
